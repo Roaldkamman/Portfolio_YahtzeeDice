@@ -1,0 +1,104 @@
+* { 
+    box-sizing: border-box;
+  }
+
+body {
+    background-color: green;
+}
+
+h1 {
+    color: #fff;
+    padding-bottom: .5em;
+    padding-top: 20px;
+    margin: 0;
+    font-size: 40px;
+    text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+
+h1:hover, h3:hover, h4:hover {
+    color: green;
+    transition: all .5s;
+}
+
+h3, h4 {
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
+
+}
+
+
+header {
+    background: linear-gradient(rgb(0, 26, 0), transparent 90%),
+    linear-gradient(0deg, green, transparent),
+    #000033 url('../images/dice.jpg') no-repeat center;
+    background-size: cover;
+    overflow: hidden;
+    padding-bottom: 60px;
+}
+
+footer {
+    color: #fff;
+    width: 100%;
+    min-height: 30px;
+    padding: 20px 0 40px 20px;
+    text-align: center;
+  }
+  
+  footer .copyright {
+    top: -8px;
+    font-size: .75em;
+  }
+  
+  footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  footer ul li {
+    display: inline-block;
+  }
+  
+  a.social {
+    display: inline-block;
+    text-indent: -9999px;
+    margin-left: 5px;
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    opacity: .4;
+    transition: all .5s;
+  }
+  
+  a.linkedin {
+    background-image: url(../images/linkedin.svg);
+  }
+  a.github {
+    background-image: url(../images/github.svg);
+  }
+  a.social:hover {
+    opacity: 1;
+    transform: scale(1.4) rotate(360deg);
+  }
+
+  a {
+    color: #fff;
+  }
+
+  a:hover {
+    color: rgb(47, 191, 248);
+    transition: all .5s;
+
+  }
