@@ -22,6 +22,8 @@ mm/dd/yyyy
 
 Friday 03/06/2020:
 
+All activities in order of completion. 
+
 Created standard files structure using index.html, CSS folder with normalize.css and styles.css, JS folder with main.js and an images folder. 
 Added required jpg and svg files. 
 
@@ -30,3 +32,11 @@ Imported JQuery and Bootstrap.
 Basic layout and styling of page using mobile-first design. 
 
 Commenting and documenting CSS properly. 
+
+Added comments to index.html. 
+
+Added images of the rules and a scorecard to the images folder to use in a card element later. 
+
+Slight reediting of footer element in CSS. 
+
+End of activities 03/06/2020. 
