@@ -1,3 +1,6 @@
+/* ===================================================================== */
+/* ===============================Universal CSS====================================== */
+
 * { 
     box-sizing: border-box;
   }
@@ -6,6 +9,12 @@ body {
     background-color: green;
 }
 
+/* ===================================================================== */
+/* ===============================Universal CSS ends====================================== */
+  
+
+/* ===================================================================== */
+/* ===============================heading/headers====================================== */
 h1 {
     color: #fff;
     padding-bottom: .5em;
@@ -15,7 +24,7 @@ h1 {
     text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,
                0 3px 0 #bbb,
-               0 4px 0 #b9b9b9,
+               0 4px 0 #b9b9b9,    /* Creates 3D text-shadow */
                0 5px 0 #aaa,
                0 6px 1px rgba(0,0,0,.1),
                0 0 5px rgba(0,0,0,.1),
@@ -41,13 +50,19 @@ h3, h4 {
 
 header {
     background: linear-gradient(rgb(0, 26, 0), transparent 90%),
-    linear-gradient(0deg, green, transparent),
+    linear-gradient(0deg, green, transparent),    /* Creates ackground header image that flows into the main page seamlessly */
     #000033 url('../images/dice.jpg') no-repeat center;
     background-size: cover;
     overflow: hidden;
     padding-bottom: 60px;
 }
 
+/* ===================================================================== */
+/* ===============================heading/headers ends====================================== */
+
+
+/* ===================================================================== */
+/* ===============================footer/social icons====================================== */
 footer {
     color: #fff;
     width: 100%;
@@ -102,3 +117,6 @@ footer {
     transition: all .5s;
 
   }
+  
+/* ===================================================================== */
+/* ===============================footer/social icons ends====================================== */
