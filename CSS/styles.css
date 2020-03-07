@@ -18,7 +18,7 @@ body {
 h1 {
     color: #fff;
     padding-bottom: .5em;
-    padding-top: 20px;
+    padding-top: 100px;
     margin: 0;
     font-size: 40px;
     text-shadow: 0 1px 0 #ccc,
@@ -35,16 +35,28 @@ h1 {
                0 20px 20px rgba(0,0,0,.15);
 }
 
-h1:hover, h3:hover, h4:hover {
+h1:hover, h2:hover, h3:hover, h4:hover {
     color: green;
     transition: all .5s;
 }
 
 h3, h4 {
-    font-size: 20px;
     color: #fff;
     text-shadow: 1px 1px 2px black, 0 0 25px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0);
 
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+h2 {
+    color: #fff;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(0, 0, 0), 0 0 5px rgb(0, 0, 0); 
 }
 
 
@@ -60,6 +72,61 @@ header {
 /* ===================================================================== */
 /* ===============================heading/headers ends====================================== */
 
+
+/* ===================================================================== */
+/* ===============================Content====================================== */
+
+.card{
+    border-bottom: 4px solid #ccc;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    box-shadow: 5px 8px 10px #222;
+    transition: all .5s;
+}
+
+#instructions {
+    margin-top: 40px;
+}
+
+.extra-pad {
+    padding-top: 30px;
+}
+
+.rolled-title {
+    margin-right: 15px;
+}
+
+.rolldiv {
+    margin-bottom: 30px;
+}
+
+button {
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    min-width: 40px;
+    border: 1px solid black;
+}
+
+button:hover {
+    transform: scale(1.2);
+    box-shadow: 5px 8px 10px #222;
+    color: #fff;
+    background-color: green;
+    border: 2px solid rgb(6, 182, 0);
+    transition: all .5s;
+}
+
+.reset-btn:hover {
+    background-color: rgb(85, 3, 0);
+    border: 4px solid rgb(199, 35, 35);
+}
+
+/* ===================================================================== */
+/* ===============================Content ends====================================== */
 
 /* ===================================================================== */
 /* ===============================footer/social icons====================================== */

@@ -40,3 +40,19 @@ Added images of the rules and a scorecard to the images folder to use in a card 
 Slight reediting of footer element in CSS. 
 
 End of activities 03/06/2020. 
+
+Saturday 03/07/2020:
+
+All activities in order of completion.
+
+Added yahtzee instructions and scorecard. Styled them using custom CSS and Bootstrap. 
+
+Added Bootstrap navigation element.
+
+Created the dice buttons and visual placeholder aspect. Styled the buttons and layout using custom CSS and Bootstrap. 
+
+Layout finished for mobile screens. Will edit media queries after the app functionality has been completed. 
+
+Updated README. 
+
+Commit to GitHub. 
