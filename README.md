@@ -56,3 +56,9 @@ Layout finished for mobile screens. Will edit media queries after the app functi
 Updated README. 
 
 Commit to GitHub. 
+
+Added randomnumber functionality in main.js innerHTML manipulation to generate random numbers onclick events. 
+
+Removed clear buttons because they were redundant.
+
+commit to GitHub.
