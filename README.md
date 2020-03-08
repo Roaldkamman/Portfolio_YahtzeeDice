@@ -64,3 +64,5 @@ Added randomnumber functionality in main.js innerHTML manipulation to generate r
 Removed clear buttons because they were redundant.
 
 commit to GitHub.
+
+End of activities 03/07/2020. (Side note:) I Think I can make the functionality of the site even simpler by combining the roll 1-5 buttons and showing as many random numbers as clicked in one line. This will be my first objective the next time I work on this project. After that I will resize the app for larger screens. Although I did get a minimum viable product ready here within 48 hours.  
