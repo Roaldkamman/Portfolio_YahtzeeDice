@@ -65,4 +65,22 @@ Removed clear buttons because they were redundant.
 
 commit to GitHub.
 
-End of activities 03/07/2020. (Side note:) I Think I can make the functionality of the site even simpler by combining the roll 1-5 buttons and showing as many random numbers as clicked in one line. This will be my first objective the next time I work on this project. After that I will resize the app for larger screens. Although I did get a minimum viable product ready here within 48 hours. Also the buttons need better styling. I will add some padding in CSS tomorrow to make them look and feel more appealing.  
+End of activities 03/07/2020. (Side note:) I Think I can make the functionality of the site even simpler by combining the roll 1-5 buttons and showing as many random numbers as clicked in one line. This will be my first objective the next time I work on this project. After that I will resize the app for larger screens. Although I did get a minimum viable product ready here within 48 hours. Also the buttons need better styling. I will add some padding in CSS tomorrow to make them look and feel more appealing. 
+
+Monday 03/09/2020: 
+
+All activities in order of completion.
+
+As mentioned previously in a note I edited the HTML and JavaScript so that now there are 5 buttons that generate the right amount of generated numbers depending on the button clicked. The base state of the site there are 5 0's as placeholders for the generated numbers. 
+
+Documented the JavaScript using comments.
+
+Imported font from google.
+
+Adjusted mobile-first CSS text font-sizes for new font. 
+
+Edited and optimized CSS for buttons. 
+
+Summary so far: Site is half the size with the same amount of functionality. Site is more accassible, and has fully optimized CSS for mobile design. 
+
+Before adding in larger breakpoints and optimizing the site for larger screens I want to try and add in extra functionality using JavaScript. I'm thinking of an input field that remembers the generated numbers you clicked on. So that when a player rolls 5 dices he can keep 2 by clicking on the numbers and they would be added to the input field so they are easy to remember. 
