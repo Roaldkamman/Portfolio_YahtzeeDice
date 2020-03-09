@@ -84,3 +84,9 @@ Edited and optimized CSS for buttons.
 Summary so far: Site is half the size with the same amount of functionality. Site is more accassible, and has fully optimized CSS for mobile design. 
 
 Before adding in larger breakpoints and optimizing the site for larger screens I want to try and add in extra functionality using JavaScript. I'm thinking of an input field that remembers the generated numbers you clicked on. So that when a player rolls 5 dices he can keep 2 by clicking on the numbers and they would be added to the input field so they are easy to remember. 
+
+Commit to Github. 
+
+Fixed the id attribute of the #dice ID so that the navigation points to the correct section of the website. 
+
+Commit to GitHub. Time for break. 
