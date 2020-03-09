@@ -94,3 +94,11 @@ Commit to GitHub. Time for break.
 Tried building the new functionality interactive notepad but ran into an issue. Asked a more experienced friend for help. Here is a link to a video containing a detailed description of the issue: https://www.loom.com/share/c8171d2516cb4620a9d616ce31b6eed1
 
 Commit to GitHub since nothing has functionally changed in the app for a user. There is unfinished JS work in progress. 
+
+Found the solution to the problem mentioned above. Source: https://stackoverflow.com/questions/60607808/textcontent-not-working-on-generated-html
+
+Made sure the function works for every element necessary. Will add input textfield and functionality in tomorrow. 
+
+Commit to GitHub.
+
+End of activities 03/09/2020.

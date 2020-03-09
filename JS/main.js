@@ -43,6 +43,30 @@ $onClickRoll1.click(function(){//creates the click function.
     $('.dice-button').html('<h4 class="rolled-title">You rolled:</h4><button class="btn_1">' + grabRandomNum() + '</button>');
 });
 
-$('.btn_1').click(function(){
-    console.log(this.textContent);
+//grabs the value of the randomly generated number after it's been rolled.
+$(".dice-button").on("click", ".btn_1", function() { 
+    console.log(this.textContent); 
 });
+
+//grabs the value of the randomly generated number after it's been rolled.
+$(".dice-button").on("click", ".btn_2", function() { 
+    console.log(this.textContent); 
+});
+
+//grabs the value of the randomly generated number after it's been rolled.
+$(".dice-button").on("click", ".btn_3", function() { 
+    console.log(this.textContent); 
+});
+
+//grabs the value of the randomly generated number after it's been rolled.
+$(".dice-button").on("click", ".btn_4", function() { 
+    console.log(this.textContent); 
+});
+
+//grabs the value of the randomly generated number after it's been rolled.
+$(".dice-button").on("click", ".btn_5", function() { 
+    console.log(this.textContent); 
+});
+
+
+
