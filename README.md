@@ -90,3 +90,7 @@ Commit to Github.
 Fixed the id attribute of the #dice ID so that the navigation points to the correct section of the website. 
 
 Commit to GitHub. Time for break. 
+
+Tried building the new functionality interactive notepad but ran into an issue. Asked a more experienced friend for help. Here is a link to a video containing a detailed description of the issue: https://www.loom.com/share/c8171d2516cb4620a9d616ce31b6eed1
+
+Commit to GitHub since nothing has functionally changed in the app for a user. There is unfinished JS work in progress. 
