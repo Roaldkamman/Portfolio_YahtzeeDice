@@ -7,7 +7,7 @@ I'm using JQuery and bootstrap but most of the CSS styling is done custom.
 
 As always this is a mobile-first responsive design. 
 
-This is the first project where I'm keeping track of my activities and documenting my code correctly using comments. This will be standard practice for me from now on.
+This is the first project where I'm keeping track of my activities and documenting my code correctly using comments. This will be standard practice for me from now on. I have worked the logging and documenting into my project workflow by doing it every time I make 3-5 changes to the project. 
 
 I used aspects of the brand to color and design the page. Their theme involves a lot of Green so I chose to color the background that color and use different shades of green for the main color theme. I might include some red later on but whenever I tested that it looked like a Christmas theme. It didn't fit the brand image. 
 
