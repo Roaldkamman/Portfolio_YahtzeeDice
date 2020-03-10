@@ -45,7 +45,7 @@ $onClickRoll1.click(function(){//creates the click function.
 
 //grabs the value of the randomly generated number after it's been rolled.
 $(".dice-button").on("click", ".btn_1", function() { 
-    console.log(this.textContent); 
+    $(".myInput").value = this.textContent + ", ";
 });
 
 //grabs the value of the randomly generated number after it's been rolled.

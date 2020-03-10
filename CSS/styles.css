@@ -128,14 +128,26 @@ button:hover {
     transition: all .5s;
 }
 
-.reset-btn:hover {
-    background-color: rgb(85, 3, 0);
-    border: 4px solid rgb(199, 35, 35);
-}
-
 .rolled-title {
     margin-top: 15px;
     font-size: 18px;
+}
+
+.myInput {
+    width: 300px;
+    padding: 10px 5px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.myInput:hover {
+    transform: scale(1.03);
+    box-shadow: 5px 8px 10px #222;
+    transition: all .5s;
+}
+
+.myInput:focus, :active {
+    outline: none;
 }
 
 /* ===================================================================== */

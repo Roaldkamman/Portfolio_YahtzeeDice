@@ -102,3 +102,13 @@ Made sure the function works for every element necessary. Will add input textfie
 Commit to GitHub.
 
 End of activities 03/09/2020.
+
+Tuesday 03/10/2020: 
+
+All activities in order of completion.
+
+Added input field and styling for new functionality explained above. 
+
+Started working on JavaScript for the new functionality but ran into a wall. Went to stack overflow for help: https://stackoverflow.com/questions/60621111/cant-figure-out-how-to-grab-value-of-button-click-event-and-paste-it-into-a-tex
+
+first commit will check back on project soon.
