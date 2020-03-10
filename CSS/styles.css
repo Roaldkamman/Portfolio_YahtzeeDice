@@ -134,10 +134,11 @@ button:hover {
 }
 
 .myInput {
-    width: 300px;
+    width: 250px;
     padding: 10px 5px;
     border-radius: 10px;
     margin-top: 10px;
+    margin-right: 20px;
 }
 
 .myInput:hover {
@@ -148,6 +149,11 @@ button:hover {
 
 .myInput:focus, :active {
     outline: none;
+}
+
+.clearInput:hover {
+    background-color: rgb(88, 16, 3);
+    border: 2px solid rgb(185, 31, 4);
 }
 
 /* ===================================================================== */

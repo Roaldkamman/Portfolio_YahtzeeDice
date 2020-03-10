@@ -45,28 +45,39 @@ $onClickRoll1.click(function(){//creates the click function.
 
 //grabs the value of the randomly generated number after it's been rolled.
 $(".dice-button").on("click", ".btn_1", function() { 
-    $(".myInput").value = this.textContent + ", ";
+    //pastes the number value clicked on into the input field
+    $(".myInput").val($(".myInput").val() + this.textContent + ", ");
 });
 
 //grabs the value of the randomly generated number after it's been rolled.
 $(".dice-button").on("click", ".btn_2", function() { 
-    console.log(this.textContent); 
+    //pastes the number value clicked on into the input field
+    $(".myInput").val($(".myInput").val() + this.textContent + ", ");
 });
 
 //grabs the value of the randomly generated number after it's been rolled.
 $(".dice-button").on("click", ".btn_3", function() { 
-    console.log(this.textContent); 
+    //pastes the number value clicked on into the input field
+    $(".myInput").val($(".myInput").val() + this.textContent + ", ");
 });
 
 //grabs the value of the randomly generated number after it's been rolled.
 $(".dice-button").on("click", ".btn_4", function() { 
-    console.log(this.textContent); 
+    //pastes the number value clicked on into the input field
+    $(".myInput").val($(".myInput").val() + this.textContent + ", ");
 });
 
 //grabs the value of the randomly generated number after it's been rolled.
 $(".dice-button").on("click", ".btn_5", function() { 
-    console.log(this.textContent); 
+    //pastes the number value clicked on into the input field
+    $(".myInput").val($(".myInput").val() + this.textContent + ", "); 
 });
+
+
+//clears the input field when clear button is clicked
+$(".clearInput").click(function(){
+    $(".myInput").val("");
+})
 
 
 

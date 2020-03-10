@@ -112,3 +112,13 @@ Added input field and styling for new functionality explained above.
 Started working on JavaScript for the new functionality but ran into a wall. Went to stack overflow for help: https://stackoverflow.com/questions/60621111/cant-figure-out-how-to-grab-value-of-button-click-event-and-paste-it-into-a-tex
 
 first commit will check back on project soon.
+
+Found solution to problem with help and implemented new functionality in JavaScript. 
+
+Added a clear input button that clears the input field when clicked. Styled in CSS and coded in JavaScript. (finally found a place to implement red brand colors)
+
+Notes: I feel like there is more I can do with this project and I may revisit it on a later date. Perhaps I can create an if statement to check if the numbers in the text input field match a Yahtzee combination. And if it does flash the combination on the screen or add it to a custom scorecard form on the page. I could generate a certain amount of forms depending on user input on the page. Essentially at that point I would be working on creating the full Yahtzee game in the browser. That will be Phase 3 of the project. Phase 2 would be adding combination reckognition logic and responding to combinations. Phase 3 would also take a lot of time and iterations. For now I will just make sure that the website is optimized for all platforms and screen sizes before taking a break on this project. 
+
+commit to GitHub with new functionalities. 
+
+
