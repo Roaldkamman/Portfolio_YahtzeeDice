@@ -121,4 +121,13 @@ Notes: I feel like there is more I can do with this project and I may revisit it
 
 commit to GitHub with new functionalities. 
 
+edited position of instructions on page for UX purposes. 
+
+End of activities 03/10/2020.
+
+Saturday 03/14/2020: 
+
+All activities in order of completion.
+
+Tried adjusting the CSS so that the two cards on the page would display next to each other. I have tried every method I know so far and nothing works. I have not tried floats yet but I prefer to stay away from that method. I think BootStrap is getting in the way of this working. Will have to figure out how to do it. Other than that I would change the font-size properties on different breakpoints and maybe increase the size of the buttons on larger displays. Fairly easy stuff. As soon as I have a solution to the cards display I will edit that and project will be finished for now. 
 
