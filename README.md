@@ -31,6 +31,7 @@ I used aspects of the brand to color and design the page. Their theme involves a
 
 * * All activities in order of completion. 
 
+
 - Created standard files structure using index.html, CSS folder with normalize.css and styles.css, JS folder with main.js and an images folder. 
 Added required jpg and svg files. 
 
@@ -51,6 +52,7 @@ End of activities 03/06/2020.
 ### Saturday 03/07/2020:
 
 * * All activities in order of completion.
+
 
 - Added yahtzee instructions and scorecard. Styled them using custom CSS and Bootstrap. 
 
@@ -75,6 +77,7 @@ End of activities 03/07/2020. (Side note:) I Think I can make the functionality 
 ### Monday 03/09/2020: 
 
 * * All activities in order of completion.
+
 
 - As mentioned previously in a note I edited the HTML and JavaScript so that now there are 5 buttons that generate the right amount of generated numbers depending on the button clicked. The base state of the site there are 5 0's as placeholders for the generated numbers. 
 
@@ -114,6 +117,7 @@ End of activities 03/09/2020.
 
 * * All activities in order of completion.
 
+
 - Added input field and styling for new functionality explained above. 
 
 - Started working on JavaScript for the new functionality but ran into a wall. Went to stack overflow for help: https://stackoverflow.com/questions/60621111/cant-figure-out-how-to-grab-value-of-button-click-event-and-paste-it-into-a-tex
@@ -136,6 +140,7 @@ End of activities 03/10/2020.
 ### Saturday 03/14/2020: 
 
 * * All activities in order of completion.
+
 
 - Tried adjusting the CSS so that the two cards on the page would display next to each other. I have tried every method I know so far and nothing works. I have not tried floats yet but I prefer to stay away from that method. I think BootStrap is getting in the way of this working. Will have to figure out how to do it. Other than that I would change the font-size properties on different breakpoints and maybe increase the size of the buttons on larger displays. Fairly easy stuff. As soon as I have a solution to the cards display I will edit that and project will be finished for now. 
 
