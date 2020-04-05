@@ -25,7 +25,7 @@ I used aspects of the brand to color and design the page. Their theme involves a
 
 # Activity log: 
 
-### mm/dd/yyyy
+### date format: mm/dd/yyyy
 
 ### Friday 03/06/2020:
 
