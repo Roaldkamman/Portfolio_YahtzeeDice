@@ -8,9 +8,16 @@
 
 I'm using JQuery and bootstrap but most of the CSS styling is done custom.
 
+This project was built from scratch without any coursework or template. 
+
 As always this is a mobile-first responsive design. 
 
 This is the first project where I'm keeping track of my activities and documenting my code correctly using comments. This will be standard practice for me from now on. I have worked the logging and documenting into my project workflow by doing it every time I make 3-5 changes to the project. 
+
+- Site was tested in Chrome for Windows, and FireFox for Windows. 
+- HTML validated via the W3C Markup Validation Service.
+- CSS validated via the W3C CSS Validation Service.
+- JS checked via JS Hint and JS console.
 
 ### Desgin Philosophy
 
@@ -24,10 +31,6 @@ I used aspects of the brand to color and design the page. Their theme involves a
 
 
 # Activity log: 
-
-### date format: mm/dd/yyyy
-
-### Friday 03/06/2020:
 
 * * All activities in order of completion. 
 
@@ -46,13 +49,6 @@ Added required jpg and svg files.
 - Added images of the rules and a scorecard to the images folder to use in a card element later. 
 
 - Slight reediting of footer element in CSS. 
-End of activities 03/06/2020. 
-
-
-### Saturday 03/07/2020:
-
-* * All activities in order of completion.
-
 
 - Added yahtzee instructions and scorecard. Styled them using custom CSS and Bootstrap. 
 
@@ -71,13 +67,7 @@ End of activities 03/06/2020.
 - Removed clear buttons because they were redundant.
 
 - commit to GitHub.
-End of activities 03/07/2020. (Side note:) I Think I can make the functionality of the site even simpler by combining the roll 1-5 buttons and showing as many random numbers as clicked in one line. This will be my first objective the next time I work on this project. After that I will resize the app for larger screens. Although I did get a minimum viable product ready here within 48 hours. Also the buttons need better styling. I will add some padding in CSS tomorrow to make them look and feel more appealing. 
-
-
-### Monday 03/09/2020: 
-
-* * All activities in order of completion.
-
+(Side note:) I Think I can make the functionality of the site even simpler by combining the roll 1-5 buttons and showing as many random numbers as clicked in one line. This will be my first objective the next time I work on this project. After that I will resize the app for larger screens. Although I did get a minimum viable product ready here within 48 hours. Also the buttons need better styling. I will add some padding in CSS tomorrow to make them look and feel more appealing. 
 
 - As mentioned previously in a note I edited the HTML and JavaScript so that now there are 5 buttons that generate the right amount of generated numbers depending on the button clicked. The base state of the site there are 5 0's as placeholders for the generated numbers. 
 
@@ -110,13 +100,6 @@ Before adding in larger breakpoints and optimizing the site for larger screens I
 - Made sure the function works for every element necessary. Will add input textfield and functionality in tomorrow. 
 
 - Commit to GitHub.
-End of activities 03/09/2020.
-
-
-### Tuesday 03/10/2020: 
-
-* * All activities in order of completion.
-
 
 - Added input field and styling for new functionality explained above. 
 
@@ -134,14 +117,7 @@ End of activities 03/09/2020.
 - commit to GitHub with new functionalities. 
 
 - edited position of instructions on page for UX purposes. 
-End of activities 03/10/2020.
 
-
-### Saturday 03/14/2020: 
-
-* * All activities in order of completion.
-
-
-- Tried adjusting the CSS so that the two cards on the page would display next to each other. I have tried every method I know so far and nothing works. I have not tried floats yet but I prefer to stay away from that method. I think BootStrap is getting in the way of this working. Will have to figure out how to do it. Other than that I would change the font-size properties on different breakpoints and maybe increase the size of the buttons on larger displays. Fairly easy stuff. As soon as I have a solution to the cards display I will edit that and project will be finished for now. 
+- Tried adjusting the CSS so that the two cards on the page would display next to each other. I have tried every method I know so far and nothing works. I have not tried floats yet but I prefer to stay away from that method. I think BootStrap is getting in the way of this working. Will have to figure out how to do it. Other than that I would change the font-size properties on different breakpoints and maybe increase the size of the buttons on larger displays. Fairly easy stuff. As soon as I have a solution to the cards display I will edit that and the project will be finished for now. 
 
 ### are you interested in hiring a Front End Web Developer? Email me at: r.j.kamman@gmail.com
